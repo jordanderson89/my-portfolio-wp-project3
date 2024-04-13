@@ -1,0 +1,23 @@
+/*
+Theme Name: Evita
+Theme URI: https://www.nayrathemes.com/evita-free/
+Author: Nayra Themes
+Author URI: https://www.nayrathemes.com
+Description: Craft a standout resume, CV, or personal website with Evita, the sleek and customizable WordPress theme. Elevate your professional image with its modern design and user-friendly features, ensuring you make a memorable impression online. View the demo of Evita Pro https://www.nayrathemes.com/demo/pro/?theme=evita
+Version: 1.0.6
+Tested up to: 6.4
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: evita
+Slug: evita
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+.footer-sidebar .widget .wp-block-group .wp-block-image .wp-element-caption a {
+    color:inherit;
+}
